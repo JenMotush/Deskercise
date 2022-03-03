@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T00:38:48.087Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="6duUlLumfkVMFtbOlpcE" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-03T00:41:42.708Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="_1-AUAsqzKEhG8fv7m2V" version="15.4.1" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1673" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="6RLZzMrQ166N6AJZpx5E-165" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="970" y="710" width="150" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="6RLZzMrQ166N6AJZpx5E-140" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="582" y="625.5" width="150" height="80" as="geometry" />
         </mxCell>
@@ -310,9 +313,6 @@
         </mxCell>
         <mxCell id="6RLZzMrQ166N6AJZpx5E-162" value="&lt;b&gt;IT811 - Team 2: Work Breakdown Structure for GameDay Guru Planning&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="92" y="940" width="470" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="6RLZzMrQ166N6AJZpx5E-165" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="980" y="720" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
